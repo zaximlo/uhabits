@@ -211,10 +211,10 @@ Combien de pages avez-vous lu ?</string>
     <string name="no_boolean_habits">Aucune habitude binaire trouvée</string>
     <string name="increment">Augmenter</string>
     <string name="decrement">Diminuer</string>
-    <string name="pref_skip_title">Pouvoir passer des jours</string>
-    <string name="pref_skip_description">Appuyer deux fois pour passer un jour au lieu de valider. Passer des jours ne change pas votre score et ne brise pas votre série.</string>
+    <string name="pref_skip_title">Pouvoir sauter des jours</string>
+    <string name="pref_skip_description">Appuyer deux fois pour sauter un jour au lieu de valider. Sauter des jours ne change pas votre score et ne brise pas votre série.</string>
     <string name="pref_unknown_title">Afficher des points d\'interrogations pour les données manquantes</string>
-    <string name="pref_unknown_description">Différentié les jours sans donnée des jours sans avoir fait les habitudes. Pour passer un jour, appuyez deux fois longtemps au lieu d\'une seul fois.</string>
+    <string name="pref_unknown_description">Différentié les jours sans donnée des jours sans avoir fait les habitudes. Pour sauter un jour, appuyez deux fois longtemps au lieu d\'une seul fois.</string>
     <string name="you_are_now_a_developer">Vous êtes désormais un développeur !</string>
     <string name="activity_not_found">Aucune application trouvée pour faire cette action</string>
     <string name="pref_midnight_delay_title">Prolonger les jours de quelques heures après minuit </string>
